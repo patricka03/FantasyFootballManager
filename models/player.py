@@ -1,9 +1,10 @@
 from itertools import count
 
 class Player:
-    def __init__(self, name, position, club):
+    def __init__(self, name, position, club, price):
         self.name = name
         self.position = position
+        self.price = price
         self.club = club
         self._goals = 0
         self._assists = 0

@@ -1,0 +1,19 @@
+[
+  {"name": "Erling Haaland", "position": "Forward", "club": "Man City", "price": 14.0},
+  {"name": "Mohamed Salah", "position": "Midfield", "club": "Liverpool", "price": 13.0},
+  {"name": "Bukayo Saka", "position": "Midfield", "club": "Arsenal", "price": 8.5},
+  {"name": "Son Heung-min", "position": "Midfield", "club": "Tottenham", "price": 9.0},
+  {"name": "Marcus Rashford", "position": "Midfield", "club": "Man United", "price": 8.0},
+  {"name": "Ollie Watkins", "position": "Forward", "club": "Aston Villa", "price": 7.5},
+  {"name": "Cole Palmer", "position": "Forward", "club": "Chelsea", "price": 7.0},
+  {"name": "James Maddison", "position": "Midfield", "club": "Tottenham", "price": 7.5},
+  {"name": "Declan Rice", "position": "Midfield", "club": "Arsenal", "price": 6.0},
+  {"name": "Virgil van Dijk", "position": "Defender", "club": "Liverpool", "price": 6.5},
+  {"name": "William Saliba", "position": "Defender", "club": "Arsenal", "price": 5.5},
+  {"name": "Reece James", "position": "Defender", "club": "Chelsea", "price": 5.0},
+  {"name": "Luke Shaw", "position": "Defender", "club": "Man United", "price": 5.0},
+  {"name": "Kieran Trippier", "position": "Defender", "club": "Newcastle", "price": 6.0},
+  {"name": "Jordan Pickford", "position": "Goalkeeper",  "club": "Everton","price": 4.5},
+  {"name": "Alisson Becker", "position": "Goalkeeper", "club": "Liverpool", "price": 5.5},
+  {"name": "David Raya", "position": "Goalkeeper", "club": "Arsenal" ,"price": 5.0}
+]
